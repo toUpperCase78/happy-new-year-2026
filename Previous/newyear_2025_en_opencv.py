@@ -162,3 +162,4 @@ if k == ord('s'):
     cv2.imwrite("newyear_2025_en.png", image)
 
 cv2.destroyAllWindows()
+
